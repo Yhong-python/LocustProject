@@ -7,3 +7,4 @@
 @desc:
 '''
 print('这是第一次提交的代码')
+print（'这是直接在github上加的'）
