@@ -64,5 +64,6 @@ class WebUser(HttpUser):
     tasks = [UserBehavior]  # Testcase类
     wait_time = between(1, 5)
     user_que = queue.Queue()
+    print('11111111')
     user_que.put('19999999999')
     user_que.put('19999999992')
